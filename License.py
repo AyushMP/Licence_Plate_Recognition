@@ -80,4 +80,4 @@ def main(image_path):
         print("No license plate detected.")
 
 if __name__ == "__main__":
-    main("images (1).jpeg")
+    main("gettyimages-963767120_wide-a7ce9125834d9599dc4609847ce9b688fe6e7d28.jpg")
