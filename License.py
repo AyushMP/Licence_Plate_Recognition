@@ -57,4 +57,4 @@ def main(image_path):
         print("No license plate detected.")
 
 if __name__ == "__main__":
-    main(r"images\gettyimages-963767120_wide-a7ce9125834d9599dc4609847ce9b688fe6e7d28.jpg")  # Use a raw string (prefix with 'r') to handle backslashes in the path
+    main(r"images\171148768666033ac6b2802_nu74-reg.jpg")  # Use a raw string (prefix with 'r') to handle backslashes in the path
